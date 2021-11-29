@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  font-weight: bold;
+  font-size: 70px;
+  color: rgb(6, 122, 51);
+  background-color: rgb(221, 248, 148);
 }
 
 .App-logo {
