@@ -7,7 +7,7 @@ function App() {
   }
   return (
     <div className="App">
-       < Profile fullName="Abed" bio=" " profession="techer" alert={alertfun} Photo={Photo}  />
+       < Profile fullName="See Misurata" bio=" " profession="IN Libya" alert={alertfun} Photo={Photo}  />
     </div>
   );
 }

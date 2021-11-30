@@ -5,7 +5,10 @@
   font-weight: bold;
   font-size: 70px;
   color: rgb(6, 122, 51);
-  background-color: rgb(221, 248, 148);
+  background-color: rgb(204, 236, 229);
+  
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
 }
 
 .App-logo {
@@ -41,4 +44,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+img {
+  border-radius: 20%;
+  width: 700px;
+  height: 700px;
+  
+}
+button {
+  background-color: #1e0ad6; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+
 }

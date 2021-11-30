@@ -5,6 +5,7 @@ export default function Profile(props) {
         <p>{props.bio}</p>
         <p>{props.profession}</p>
         <img src={props.Photo} alt="img in src" />
+        <br />
         <button onClick={props.alert}>sucsess</button>
       </div>
     );
